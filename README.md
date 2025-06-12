@@ -8,13 +8,11 @@ Exploratory Data Analysis (EDA)
 
 Key Insights & Visualizations
 
+Summary Conclusions
+
 -----
 
-## Netflix analysis 
-
-### Summary Conclusions
-
-🎬 Netflix Analysis
+## 🎬 Netflix Analysis
 📝 Problem Statement
 Perform a briefer exploratory analysis on the Netflix Daily Top 10 dataset (2020–2022), focusing on feature attributes for Movies/TV Shows along with Viewership Score. Extract insightful patterns and present justified findings.
 
